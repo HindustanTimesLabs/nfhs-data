@@ -1,0 +1,638 @@
+district,state,district_census_code,state_census_code,total,rural,urban
+Kupwara,Jammu & Kashmir,1,1,"3,903","3,943",
+Badgam,Jammu & Kashmir,2,1,"5,465","5,451",
+Leh(Ladakh),Jammu & Kashmir,3,1,"2,942","2,994","2,876"
+Kargil,Jammu & Kashmir,4,1,"2,323","2,635",
+Punch,Jammu & Kashmir,5,1,"4,146","4,171",
+Rajouri,Jammu & Kashmir,6,1,"5,523","5,510",
+Kathua,Jammu & Kashmir,7,1,"3,380","3,348",
+Baramula,Jammu & Kashmir,8,1,"3,607","3,130",
+Bandipore,Jammu & Kashmir,9,1,"3,984","4,151",
+Srinagar,Jammu & Kashmir,10,1,"3,794",,"3,767"
+Ganderbal,Jammu & Kashmir,11,1,"5,486","5,253",
+Pulwama,Jammu & Kashmir,12,1,"3,169","3,041",
+Shupiyan,Jammu & Kashmir,13,1,"3,780","3,424",
+Anantnag,Jammu & Kashmir,14,1,"3,568","3,608",
+Kulgam,Jammu & Kashmir,15,1,"3,917","3,998",
+Doda,Jammu & Kashmir,16,1,"7,512","7,670",
+Ramban,Jammu & Kashmir,17,1,"6,127","6,234",
+Kishtwar,Jammu & Kashmir,18,1,"5,042","4,953",
+Udhampur,Jammu & Kashmir,19,1,"3,100","3,170",
+Reasi,Jammu & Kashmir,20,1,"4,137","4,528",
+Jammu,Jammu & Kashmir,21,1,"4,300","2,918","6,237"
+Samba,Jammu & Kashmir,22,1,"4,551","4,532",
+Chamba,Himachal Pradesh,23,2,"2,778","2,930",
+Kangra,Himachal Pradesh,24,2,"2,432","2,409",
+Lahul and Spiti,Himachal Pradesh,25,2,"4,472","4,472",
+Kullu,Himachal Pradesh,26,2,"2,927","3,098",
+Mandi,Himachal Pradesh,27,2,"3,443","3,195",
+Hamirpur,Himachal Pradesh,28,2,"4,155","4,284",
+Una,Himachal Pradesh,29,2,"4,418","4,507",
+Bilaspur,Himachal Pradesh,30,2,"4,743","4,908",
+Solan,Himachal Pradesh,31,2,"2,313","2,394",
+Sirmaur,Himachal Pradesh,32,2,"2,862","2,813",
+Shimla,Himachal Pradesh,33,2,"4,036","3,396",
+Kinnaur,Himachal Pradesh,34,2,"5,033","5,033",
+Gurdaspur,Punjab,35,3,"1,631","1,960",
+Kapurthala,Punjab,36,3,"2,679","-3,131","-1,849"
+Jalandhar,Punjab,37,3,"3,135","-4,245","-2,094"
+Hoshiarpur,Punjab,38,3,"1,057","1,146",
+Sahid Bhagat Singh Nagar,Punjab,39,3,"1,917","1,535",*
+Fatehgarh Sahib,Punjab,40,3,"3,862","-4,448","-2,376"
+Ludhiana,Punjab,41,3,"1,269","1,481","-1,004"
+Moga,Punjab,42,3,995,"1,055",
+Firozpur,Punjab,43,3,"1,119","1,098",
+Muktsar,Punjab,44,3,"1,494","1,454",
+Faridkot,Punjab,45,3,"1,984","2,195","1,546"
+Bathinda,Punjab,46,3,"1,427","1,588","1,222"
+Mansa,Punjab,47,3,"1,553","1,629",
+Patiala,Punjab,48,3,"2,216","2,480","1,822"
+Amritsar,Punjab,49,3,"1,949","2,300","-1,361"
+Tarn Taran,Punjab,50,3,"1,408","1,450",
+Rup Nagar,Punjab,51,3,"2,258","2,254",
+Sahibzada Ajit Singh Nagar,Punjab,52,3,"2,607","3,314","2,004"
+Sangrur,Punjab,53,3,"2,973","2,940",
+Barnala,Punjab,54,3,"2,227","2,129","2,459"
+Uttarkashi,Uttarakhand,56,5,"2,483","2,492",
+Chamoli,Uttarakhand,57,5,"2,097","2,110",
+Rudraprayag,Uttarakhand,58,5,"3,455","3,406",
+Tehri Garhwal,Uttarakhand,59,5,"1,430","1,228",
+Dehradun,Uttarakhand,60,5,"1,954","1,858","2,042"
+Garhwal,Uttarakhand,61,5,"1,478","1,475",
+Pithoragarh,Uttarakhand,62,5,"1,221","1,213",
+Bageshwar,Uttarakhand,63,5,"2,299","2,317",
+Almora,Uttarakhand,64,5,"3,017","1,834",
+Champawat,Uttarakhand,65,5,"1,943","1,630",
+Nainital,Uttarakhand,66,5,"5,122","7,058","2,969"
+Udham Singh Nagar,Uttarakhand,67,5,"2,899","3,384","2,055"
+Hardwar,Uttarakhand,68,5,"2,043","1,946","2,136"
+Panchkula,Haryana,69,6,896,922,-872
+Ambala,Haryana,70,6,785,"1,026",476
+Yamunanagar,Haryana,71,6,"1,044","1,015","1,082"
+Kurukshetra,Haryana,72,6,923,973,
+Kaithal,Haryana,73,6,519,392,
+Karnal,Haryana,74,6,728,674,931
+Panipat,Haryana,75,6,"1,927",-575,"2,871"
+Sonipat,Haryana,76,6,"2,589","2,406","-3,094"
+Jind,Haryana,77,6,"1,099",845,
+Fatehabad,Haryana,78,6,850,940,
+Sirsa,Haryana,79,6,500,415,
+Hisar,Haryana,80,6,949,688,"-2,231"
+Bhiwani,Haryana,81,6,"1,108",631,
+Rohtak,Haryana,82,6,"1,909","2,387","1,017"
+Jhajjar,Haryana,83,6,"1,217",586,
+Mahendragarh,Haryana,84,6,"1,081","1,190",
+Rewari,Haryana,85,6,"1,369","1,646",
+Gurgaon,Haryana,86,6,"2,843","3,167","-2,716"
+Mewat,Haryana,87,6,"1,864","1,762",
+Faridabad,Haryana,88,6,"3,856",,"4,235"
+Palwal,Haryana,89,6,"2,306","1,763",
+North West,NCT Delhi,90,7,"2,938",,"-2,940"
+North,NCT Delhi,91,7,"3,427",,"3,459"
+North East,NCT Delhi,92,7,"2,622",,"2,622"
+East,NCT Delhi,93,7,"12,335",,"12,335"
+New Delhi,NCT Delhi,94,7,"6,933",,"6,933"
+Central,NCT Delhi,95,7,"18,577",,"18,577"
+West,NCT Delhi,96,7,"27,361",,"27,361"
+South West,NCT Delhi,97,7,"3,382",,"3,289"
+South,NCT Delhi,98,7,"11,932",,"11,932"
+Ganganagar,Rajasthan,99,8,662,729,
+Hanumangarh,Rajasthan,100,8,"1,130","1,161",
+Bikaner,Rajasthan,101,8,"2,495","2,457","2,567"
+Churu,Rajasthan,102,8,"1,330","1,451",
+Jhunjhunun,Rajasthan,103,8,882,987,
+Alwar,Rajasthan,104,8,"1,487","1,481",
+Bharatpur,Rajasthan,105,8,"1,796","1,808",
+Dhaulpur,Rajasthan,106,8,907,837,
+Karauli,Rajasthan,107,8,"1,781","1,896",
+Sawai Madhopur,Rajasthan,108,8,"1,678","1,728",
+Dausa,Rajasthan,109,8,"1,621","1,632",
+Jaipur,Rajasthan,110,8,"2,365","2,910","1,714"
+Sikar,Rajasthan,111,8,"2,386","2,292",
+Nagaur,Rajasthan,112,8,"9,395","8,271",
+Jodhpur,Rajasthan,113,8,"22,172","26,504","12,895"
+Jaisalmer,Rajasthan,114,8,"1,473","1,474",
+Barmer,Rajasthan,115,8,"1,238","1,268",
+Jalor,Rajasthan,116,8,927,894,
+Sirohi,Rajasthan,117,8,"1,216","1,263",
+Pali,Rajasthan,118,8,904,846,
+Ajmer,Rajasthan,119,8,"1,463","1,273","1,940"
+Tonk,Rajasthan,120,8,805,920,
+Bundi,Rajasthan,121,8,674,756,
+Bhilwara,Rajasthan,122,8,"1,014","1,073",
+Rajsamand,Rajasthan,123,8,"1,507","1,469",
+Dungarpur,Rajasthan,124,8,"1,359","1,302",
+Banswara,Rajasthan,125,8,"5,033","2,551",
+Chittaurgarh,Rajasthan,126,8,842,875,
+Kota,Rajasthan,127,8,"1,050",915,"1,176"
+Baran,Rajasthan,128,8,"5,674","6,741",
+Jhalawar,Rajasthan,129,8,846,763,
+Udaipur,Rajasthan,130,8,947,890,
+Pratapgarh,Rajasthan,131,8,758,777,
+Saharanpur,Uttar Pradesh,132,9,"2,146","1,990","2,763"
+Muzaffarnagar,Uttar Pradesh,133,9,"1,524","1,580",
+Bijnor,Uttar Pradesh,134,9,"4,615","4,850",
+Moradabad,Uttar Pradesh,135,9,"1,760","1,683","-2,106"
+Rampur,Uttar Pradesh,136,9,"1,164","1,258",
+Jyotiba Phule Nagar,Uttar Pradesh,137,9,938,919,
+Meerut,Uttar Pradesh,138,9,"1,026",934,"1,148"
+Baghpat,Uttar Pradesh,139,9,"1,083","1,122",
+Ghaziabad,Uttar Pradesh,140,9,"1,981","1,956","1,993"
+Gautam Buddha Nagar,Uttar Pradesh,141,9,"2,563","1,315","3,063"
+Bulandshahr,Uttar Pradesh,142,9,"3,482","3,878",
+Aligarh,Uttar Pradesh,143,9,"2,073","1,109","5,095"
+Mahamaya Nagar,Uttar Pradesh,144,9,"1,236","1,142",
+Mathura,Uttar Pradesh,145,9,"1,328","1,401",
+Agra,Uttar Pradesh,146,9,"2,348","2,005","3,212"
+Firozabad,Uttar Pradesh,147,9,"1,441","1,261","2,180"
+Mainpuri,Uttar Pradesh,148,9,"1,627","1,611",
+Budaun,Uttar Pradesh,149,9,"1,255","1,263",
+Bareilly,Uttar Pradesh,150,9,998,872,"-1,538"
+Pilibhit,Uttar Pradesh,151,9,807,806,
+Shahjahanpur,Uttar Pradesh,152,9,"1,043","1,025",
+Kheri,Uttar Pradesh,153,9,"1,383","1,419",
+Sitapur,Uttar Pradesh,154,9,"1,568","1,409",
+Hardoi,Uttar Pradesh,155,9,"1,488","1,556",
+Unnao,Uttar Pradesh,156,9,"1,130","1,014",
+Lucknow,Uttar Pradesh,157,9,"1,752","1,234","2,257"
+Rae Bareli,Uttar Pradesh,158,9,"1,691","1,665",
+Farrukhabad,Uttar Pradesh,159,9,"1,331","1,207",
+Kannauj,Uttar Pradesh,160,9,"1,314","1,262",
+Etawah,Uttar Pradesh,161,9,"1,312","1,280",
+Auraiya,Uttar Pradesh,162,9,"1,732","1,830",
+Kanpur Dehat,Uttar Pradesh,163,9,"1,090","1,060",
+Kanpur Nagar,Uttar Pradesh,164,9,"1,744","1,206","-2,296"
+Jalaun,Uttar Pradesh,165,9,"3,832","1,368",
+Jhansi,Uttar Pradesh,166,9,"1,401","1,171","1,930"
+Lalitpur,Uttar Pradesh,167,9,536,474,
+Hamirpur,Uttar Pradesh,168,9,"3,568","3,947",
+Mahoba,Uttar Pradesh,169,9,"1,089","1,073",
+Banda,Uttar Pradesh,170,9,814,694,
+Chitrakoot,Uttar Pradesh,171,9,"1,556","1,636",
+Fatehpur,Uttar Pradesh,172,9,"1,407","1,423",
+Pratapgarh,Uttar Pradesh,173,9,"1,755","1,758",
+Kaushambi,Uttar Pradesh,174,9,"1,412","1,434",
+Allahabad,Uttar Pradesh,175,9,"1,649","1,582",
+Bara Banki,Uttar Pradesh,176,9,"2,625","2,809",
+Faizabad,Uttar Pradesh,177,9,"1,754","1,659",
+Ambedkar Nagar,Uttar Pradesh,178,9,"1,285","1,244",
+Sultanpur,Uttar Pradesh,179,9,"2,266","2,210",
+Bahraich,Uttar Pradesh,180,9,"2,356","1,849",
+Shrawasti,Uttar Pradesh,181,9,"2,018","2,046",
+Balrampur,Uttar Pradesh,182,9,"1,611","1,642",
+Gonda,Uttar Pradesh,183,9,"2,641","2,609",
+Siddharthnagar,Uttar Pradesh,184,9,"1,863","1,868",
+Basti,Uttar Pradesh,185,9,"4,428","4,496",
+Sant Kabir Nagar,Uttar Pradesh,186,9,"2,457","2,435",
+Maharajganj,Uttar Pradesh,187,9,"2,191","2,189",
+Gorakhpur,Uttar Pradesh,188,9,"2,301","2,271",
+Kushinagar,Uttar Pradesh,189,9,"4,125","4,167",
+Deoria,Uttar Pradesh,190,9,"2,029","2,018",
+Azamgarh,Uttar Pradesh,191,9,"1,946","1,901",
+Mau,Uttar Pradesh,192,9,"6,068","6,688",
+Ballia,Uttar Pradesh,193,9,"2,004","2,032",
+Jaunpur,Uttar Pradesh,194,9,"1,557","1,554",
+Ghazipur,Uttar Pradesh,195,9,"2,090","1,982",
+Chandauli,Uttar Pradesh,196,9,"2,086","1,756",
+Varanasi,Uttar Pradesh,197,9,"2,592","1,768","4,870"
+Sant Ravidas Nagar,Uttar Pradesh,198,9,"1,244","1,286",
+Mirzapur,Uttar Pradesh,199,9,"1,312","1,116",
+Sonbhadra,Uttar Pradesh,200,9,"1,861","1,203",
+Etah,Uttar Pradesh,201,9,"1,430","1,414",
+Kanshiram Nagar,Uttar Pradesh,202,9,"1,125","1,163",
+Pashchim Champaran,Bihar,203,10,"3,156","3,198",
+Purba Champaran,Bihar,204,10,"2,539","2,564",
+Sheohar,Bihar,205,10,"2,195","2,234",
+Sitamarhi,Bihar,206,10,"2,278","2,335",
+Madhubani,Bihar,207,10,"2,598","2,639",
+Supaul,Bihar,208,10,"1,966","2,038",
+Araria,Bihar,209,10,"2,318","1,838",
+Kishanganj,Bihar,210,10,"2,147","2,270",
+Purnia,Bihar,211,10,"1,278","1,219",
+Katihar,Bihar,212,10,"1,030","1,067",
+Madhepura,Bihar,213,10,"1,076","1,086",
+Saharsa,Bihar,214,10,"1,285","1,307",
+Darbhanga,Bihar,215,10,"2,529","2,544",
+Muzaffarpur,Bihar,216,10,"1,970","1,643",
+Gopalganj,Bihar,217,10,"4,474","4,695",
+Siwan,Bihar,218,10,"1,609","1,625",
+Saran,Bihar,219,10,"2,868","2,739",
+Vaishali,Bihar,220,10,"1,438","1,230",
+Samastipur,Bihar,221,10,"1,389","1,408",
+Begusarai,Bihar,222,10,"1,210","1,310",
+Khagaria,Bihar,223,10,933,919,
+Bhagalpur,Bihar,224,10,"1,037",936,
+Banka,Bihar,225,10,"1,123","1,137",
+Munger,Bihar,226,10,"1,287","1,394",
+Lakhisarai,Bihar,227,10,"1,084","1,095",
+Sheikhpura,Bihar,228,10,"1,198","1,205",
+Nalanda,Bihar,229,10,889,802,
+Patna,Bihar,230,10,"1,647","1,827","1,323"
+Bhojpur,Bihar,231,10,"1,214","1,262",
+Buxar,Bihar,232,10,"1,333","1,329",
+Kaimur,Bihar,233,10,"1,232","1,253",
+Rohtas,Bihar,234,10,"1,058","1,059",
+Aurangabad,Bihar,235,10,"1,907","1,941",
+Gaya,Bihar,236,10,"1,028",948,
+Nawada,Bihar,237,10,"1,278","1,318",
+Jamui,Bihar,238,10,"1,215","1,202",
+Jehanabad,Bihar,239,10,"1,225","1,217",
+Arwal,Bihar,240,10,"1,226","1,263",
+North District,Sikkim,241,11,"2,066","2,151",
+West District,Sikkim,242,11,"1,461","1,503",
+South District,Sikkim,243,11,"1,562","1,481",
+East District,Sikkim,244,11,"3,451","4,080","2,825"
+Tawang,Arunachal Pradesh,245,12,"-6,660","-7,174",
+West Kameng,Arunachal Pradesh,246,12,"5,932","-5,960",
+East Kameng,Arunachal Pradesh,247,12,"-6,387",*,
+Papumpare,Arunachal Pradesh,248,12,"12,082","6,668","16,032"
+Upper Subansiri,Arunachal Pradesh,249,12,"9,754","10,196",
+West Siang,Arunachal Pradesh,250,12,"-4,400","-3,680",
+East Siang,Arunachal Pradesh,251,12,"6,508","5,031",
+Upper Siang,Arunachal Pradesh,252,12,"4,773","2,997",
+Changlang,Arunachal Pradesh,253,12,"3,386","3,360",
+Tirap,Arunachal Pradesh,254,12,"2,911","2,896",
+Lower Subansiri,Arunachal Pradesh,255,12,"-6,049","-6,284",
+Kurung Kumey,Arunachal Pradesh,256,12,"5,892","5,747",
+Dibang Valley,Arunachal Pradesh,257,12,"10,164","-10,164",
+Lower Dibang Valley,Arunachal Pradesh,258,12,"5,052","4,436",
+Lohit,Arunachal Pradesh,259,12,"4,864","3,927",
+Anjaw,Arunachal Pradesh,260,12,"3,876","3,908",
+Mon,Nagaland,261,13,"-3,559",*,
+Mokokchung,Nagaland,262,13,"-6,897",*,
+Zunheboto,Nagaland,263,13,"-10,499",*,
+Wokha,Nagaland,264,13,"-6,542","-7,118",
+Dimapur,Nagaland,265,13,"7,334","7,015","7,673"
+Phek,Nagaland,266,13,"-6,003","-5,091",
+Tuensang,Nagaland,267,13,"4,165","-3,398",
+Longleng,Nagaland,268,13,*,*,
+Kiphire,Nagaland,269,13,"3,606","-4,205",
+Kohima,Nagaland,270,13,"5,123","3,455","7,003"
+Peren,Nagaland,271,13,"3,701","3,692",
+Senapati,Manipur,272,14,"9,633","9,951",
+Tamenglong,Manipur,273,14,"8,178","8,936",
+Churachandpur,Manipur,274,14,"5,955","6,226",
+Bishnupur,Manipur,275,14,"8,449","8,456","8,441"
+Thoubal,Manipur,276,14,"10,420","10,567","10,189"
+Imphal West,Manipur,277,14,"11,508","10,637","12,117"
+Imphal East,Manipur,278,14,"10,738","10,362","11,268"
+Ukhrul,Manipur,279,14,"-8,143","-8,884",
+Chandel,Manipur,280,14,"7,582","7,679",
+Mamit,Mizoram,281,15,"2,964","2,870",
+Kolasib,Mizoram,282,15,"3,097","2,406","3,292"
+Aizawl,Mizoram,283,15,"5,087",,"6,032"
+Champhai,Mizoram,284,15,"3,570","3,000","4,232"
+Serchhip,Mizoram,285,15,"3,054","2,285","3,408"
+Lunglei,Mizoram,286,15,"5,159","5,267","5,025"
+Lawngtlai,Mizoram,287,15,"3,648","3,986",
+Saiha,Mizoram,288,15,"3,221","2,651","3,512"
+West Tripura,Tripura,289,16,"4,693","4,607","4,863"
+South Tripura,Tripura,290,16,"4,721","4,758",
+Dhalai,Tripura,291,16,"3,860","3,588",
+North Tripura,Tripura,292,16,"3,437","3,097",
+West Garo Hills,Meghalaya,293,17,"4,558","4,792",
+East Garo Hills,Meghalaya,294,17,"3,589","3,512",
+South Garo Hills,Meghalaya,295,17,"3,792","3,816",
+West Khasi Hills,Meghalaya,296,17,"2,013","1,902",
+Ribhoi,Meghalaya,297,17,"1,943","2,056",
+East Khasi Hills,Meghalaya,298,17,"2,265","2,278","2,241"
+Jaintia Hills,Meghalaya,299,17,"1,942","1,899",
+Kokrajhar,Assam,300,18,"3,593","3,654",
+Dhubri,Assam,301,18,"3,599","3,462",
+Goalpara,Assam,302,18,"2,984","2,651",
+Barpeta,Assam,303,18,"1,998","2,016",
+Morigaon,Assam,304,18,"2,493","2,389",
+Nagaon,Assam,305,18,"3,336","2,855",
+Sonitpur,Assam,306,18,"2,850","2,580",
+Lakhimpur,Assam,307,18,"3,816","3,574",
+Dhemaji,Assam,308,18,"3,319","3,475",
+Tinsukia,Assam,309,18,"2,787","2,455",
+Dibrugarh,Assam,310,18,"3,792","4,070",
+Sivasagar,Assam,311,18,"3,262","3,131",
+Jorhat,Assam,312,18,"3,232","3,178",
+Golaghat,Assam,313,18,"2,050","1,909",
+Karbi Anglong,Assam,314,18,"2,814","2,559",
+Dima Hasao,Assam,315,18,"3,246","3,357",
+Cachar,Assam,316,18,"4,090","4,058",
+Karimganj,Assam,317,18,"2,777","2,900",
+Hailakandi,Assam,318,18,"2,626","2,708",
+Bongaigaon,Assam,319,18,"2,730","2,424",
+Chirang,Assam,320,18,"2,356","2,272",
+Kamrup,Assam,321,18,"4,061","3,796",
+Kamrup Metropolitan,Assam,322,18,"3,978",,"4,391"
+Nalbari,Assam,323,18,"4,229","4,523",
+Baksa,Assam,324,18,"2,988","2,926",
+Darrang,Assam,325,18,"3,026","2,974",
+Udalguri,Assam,326,18,"3,333","3,268",
+Darjiling,West Bengal,327,19,"4,311","4,244","-4,499"
+Jalpaiguri,West Bengal,328,19,"3,622","3,621",
+Koch Bihar,West Bengal,329,19,"6,268","6,049",
+Uttar Dinajpur,West Bengal,330,19,"3,700","4,064",
+Dakshin Dinajpur,West Bengal,331,19,"10,075","10,493",
+Maldah,West Bengal,332,19,"2,969","2,802",
+Murshidabad,West Bengal,333,19,"31,481","30,998",
+Birbhum,West Bengal,334,19,"2,579","2,576",
+Barddhaman,West Bengal,335,19,"2,677","2,786","-2,438"
+Nadia,West Bengal,336,19,"3,143","2,751",
+North Twenty Four Parganas,West Bengal,337,19,"4,259","3,625","-4,901"
+Hugli,West Bengal,338,19,"2,648","2,588","-2,753"
+Bankura,West Bengal,339,19,"4,896","4,892",
+Puruliya,West Bengal,340,19,"1,625","1,565",
+Haora,West Bengal,341,19,"4,738","-4,575","-4,839"
+Kolkata,West Bengal,342,19,"20,845",,"20,845"
+South Twenty Four Parganas,West Bengal,343,19,"3,742","4,237",
+Paschim Medinipur,West Bengal,344,19,"2,725","2,484",
+Purba Medinipur,West Bengal,345,19,"19,550","22,297",
+Garhwa,Jharkhand,346,20,"2,230","1,889",
+Chatra,Jharkhand,347,20,"2,985","2,989",
+Kodarma,Jharkhand,348,20,"1,777","1,054",
+Giridih,Jharkhand,349,20,"1,505","1,546",
+Deoghar,Jharkhand,350,20,981,998,
+Godda,Jharkhand,351,20,"1,120","1,102",
+Sahibganj,Jharkhand,352,20,917,933,
+Pakur,Jharkhand,353,20,721,793,
+Dhanbad,Jharkhand,354,20,"2,213","2,622","1,944"
+Bokaro,Jharkhand,355,20,"1,958","1,065","2,935"
+Lohardaga,Jharkhand,356,20,"1,435","1,384",
+Purbi Singhbhum,Jharkhand,357,20,"1,149","1,201","-1,027"
+Palamu,Jharkhand,358,20,"2,978","2,866",
+Latehar,Jharkhand,359,20,965,"1,010",
+Hazaribagh,Jharkhand,360,20,"1,431","1,420",
+Ramgarh,Jharkhand,361,20,"1,605","1,697","1,483"
+Dumka,Jharkhand,362,20,766,762,
+Jamtara,Jharkhand,363,20,"1,015",977,
+Ranchi,Jharkhand,364,20,"1,706","1,716","1,690"
+Khunti,Jharkhand,365,20,"1,326","1,356",
+Gumla,Jharkhand,366,20,"1,003",952,
+Simdega,Jharkhand,367,20,"1,001",547,
+Pashchimi Singhbhum,Jharkhand,368,20,919,776,
+Saraikela Kharsawan,Jharkhand,369,20,"1,067","1,057",
+Bargarh,Odisha,370,21,"5,137","4,893",
+Jharsuguda,Odisha,371,21,"4,488","3,901","5,368"
+Sambalpur,Odisha,372,21,"3,790","3,816",
+Debagarh,Odisha,373,21,"4,263","4,363",
+Sundargarh,Odisha,374,21,"3,248","2,833","4,705"
+Kendujhar,Odisha,375,21,"3,813","3,979",
+Mayurbhanj,Odisha,376,21,"3,753","3,830",
+Baleshwar,Odisha,377,21,"3,401","3,425",
+Bhadrak,Odisha,378,21,"4,195","4,120",
+Kendrapara,Odisha,379,21,"4,831","4,891",
+Jagatsinghapur,Odisha,380,21,"4,870","4,903",
+Cuttack,Odisha,381,21,"5,590","4,986",
+Jajapur,Odisha,382,21,"5,142","4,835",
+Dhenkanal,Odisha,383,21,"4,457","4,578",
+Anugul,Odisha,384,21,"3,496","3,619",
+Nayagarh,Odisha,385,21,"3,733","3,733",
+Khordha,Odisha,386,21,"4,790","4,373","5,332"
+Puri,Odisha,387,21,"6,972","7,338",
+Ganjam,Odisha,388,21,"5,051","4,828",
+Gajapati,Odisha,389,21,"2,828","2,890",
+Kandhamal,Odisha,390,21,"3,026","2,810",
+Baudh,Odisha,391,21,"3,611","3,595",
+Subarnapur,Odisha,392,21,"4,878","4,794",
+Balangir,Odisha,393,21,"4,989","4,863",
+Nuapada,Odisha,394,21,"4,297","4,400",
+Kalahandi,Odisha,395,21,"5,133","4,968",
+Rayagada,Odisha,396,21,"1,849","1,595",
+Nabarangapur,Odisha,397,21,"1,787","1,822",
+Koraput,Odisha,398,21,"2,408","2,102",
+Malkangiri,Odisha,399,21,"1,454","1,311",
+Korea,Chhattisgarh,400,22,"1,631","1,585","1,748"
+Surguja,Chhattisgarh,401,22,"1,677","1,503",
+Jashpur,Chhattisgarh,402,22,932,890,
+Raigarh,Chhattisgarh,403,22,"5,329","5,769",
+Korba,Chhattisgarh,404,22,935,615,"1,871"
+Janjgir Champa,Chhattisgarh,405,22,"2,075","2,243",
+Bilaspur,Chhattisgarh,406,22,"1,113","1,050",
+Kabirdham,Chhattisgarh,407,22,"1,431","1,395",
+Rajnandgaon,Chhattisgarh,408,22,865,860,
+Durg,Chhattisgarh,409,22,"2,548",977,"5,230"
+Raipur,Chhattisgarh,410,22,"1,355","1,273","1,537"
+Mahasamund,Chhattisgarh,411,22,932,932,
+Dhamtari,Chhattisgarh,412,22,889,919,
+Uttar Bastar Kanker,Chhattisgarh,413,22,703,709,
+Bastar,Chhattisgarh,414,22,489,427,
+Narayanpur,Chhattisgarh,415,22,295,285,
+Dakshin Bastar Dantewada,Chhattisgarh,416,22,765,622,
+Bijapur,Chhattisgarh,417,22,323,343,
+Sheopur,Madhya Pradesh,418,23,612,618,
+Morena,Madhya Pradesh,419,23,566,587,
+Bhind,Madhya Pradesh,420,23,717,749,
+Gwalior,Madhya Pradesh,421,23,"1,623","1,256","1,846"
+Datia,Madhya Pradesh,422,23,"1,063",905,
+Shivpuri,Madhya Pradesh,423,23,"1,637","1,574",
+Tikamgarh,Madhya Pradesh,424,23,"2,274","2,538",
+Chhatarpur,Madhya Pradesh,425,23,"1,209","1,174",
+Panna,Madhya Pradesh,426,23,"1,255","1,285",
+Sagar,Madhya Pradesh,427,23,"2,198","2,213",
+Damoh,Madhya Pradesh,428,23,"1,711","1,611",
+Satna,Madhya Pradesh,429,23,"3,568","4,242",
+Rewa,Madhya Pradesh,430,23,"1,377",948,
+Umaria,Madhya Pradesh,431,23,886,917,
+Neemuch,Madhya Pradesh,432,23,"1,211","1,161",
+Mandsaur,Madhya Pradesh,433,23,"1,225","1,054",
+Ratlam,Madhya Pradesh,434,23,"1,354","1,592",
+Ujjain,Madhya Pradesh,435,23,"1,933","1,868","2,064"
+Shajapur,Madhya Pradesh,436,23,"1,114",930,
+Dewas,Madhya Pradesh,437,23,"1,586",867,
+Dhar,Madhya Pradesh,438,23,"1,495","1,614",
+Indore,Madhya Pradesh,439,23,"1,804",,"1,902"
+Khargone (West Nimar),Madhya Pradesh,440,23,698,663,
+Barwani,Madhya Pradesh,441,23,874,680,
+Rajgarh,Madhya Pradesh,442,23,"1,586","1,608",
+Vidisha,Madhya Pradesh,443,23,"1,913","1,958",
+Bhopal,Madhya Pradesh,444,23,"1,497",,"1,782"
+Sehore,Madhya Pradesh,445,23,951,"1,071",
+Raisen,Madhya Pradesh,446,23,"1,020",981,
+Betul,Madhya Pradesh,447,23,793,722,
+Harda,Madhya Pradesh,448,23,"1,870","2,158",
+Hoshangabad,Madhya Pradesh,449,23,"1,053",838,"1,688"
+Katni,Madhya Pradesh,450,23,"4,229","1,439",
+Jabalpur,Madhya Pradesh,451,23,"1,252",731,"1,877"
+Narsimhapur,Madhya Pradesh,452,23,"1,636","1,761",
+Dindori,Madhya Pradesh,453,23,582,552,
+Mandla,Madhya Pradesh,454,23,751,626,
+Chhindwara,Madhya Pradesh,455,23,"1,251","1,107",
+Seoni,Madhya Pradesh,456,23,649,688,
+Balaghat,Madhya Pradesh,457,23,"1,613","1,585",
+Guna,Madhya Pradesh,458,23,"1,044","1,120",
+Ashoknagar,Madhya Pradesh,459,23,864,978,
+Shahdol,Madhya Pradesh,460,23,"1,067",943,
+Anuppur,Madhya Pradesh,461,23,870,876,
+Sidhi,Madhya Pradesh,462,23,884,915,
+Singrauli,Madhya Pradesh,463,23,"1,192",567,
+Jhabua,Madhya Pradesh,464,23,927,935,
+Alirajpur,Madhya Pradesh,465,23,754,760,
+Khandwa (East Nimar),Madhya Pradesh,466,23,753,772,
+Burhanpur,Madhya Pradesh,467,23,592,446,845
+Kachchh,Gujarat,468,24,779,-450,"-1,851"
+Banaskantha,Gujarat,469,24,"3,417","3,467",
+Patan,Gujarat,470,24,"1,756",915,
+Mahesena,Gujarat,471,24,"-1,820","-1,806",
+Sabarkantha,Gujarat,472,24,"-2,084","-2,183",
+Gandhinagar,Gujarat,473,24,980,-582,"-1,564"
+Ahmadabad,Gujarat,474,24,"-2,596",,"-2,660"
+Surendranagar,Gujarat,475,24,"2,199","2,064",
+Rajkot,Gujarat,476,24,"-2,323",*,*
+Jamnagar,Gujarat,477,24,"1,824","-1,028","-2,595"
+Porbandar,Gujarat,478,24,"1,493","1,433","-1,637"
+Junagadh,Gujarat,479,24,"2,232","-2,191","-2,304"
+Amreli,Gujarat,480,24,"2,554","-2,342",
+Bhavnagar,Gujarat,481,24,"1,895","-2,143","-1,559"
+Anand,Gujarat,482,24,"1,745","-1,708",*
+Kheda,Gujarat,483,24,"9,079","10,717",
+Panchmahal,Gujarat,484,24,"-1,892","-1,941",
+Dohad,Gujarat,485,24,"1,236","1,184",
+Vadodara,Gujarat,486,24,"1,151",742,"-1,793"
+Narmada,Gujarat,487,24,506,522,
+Bharuch,Gujarat,488,24,"1,247","-1,024",*
+The Dangs,Gujarat,489,24,400,422,
+Navsari,Gujarat,490,24,"1,664",-717,*
+Valsad,Gujarat,491,24,"3,422","-1,462",*
+Surat,Gujarat,492,24,"1,248",,"-1,361"
+Tapi,Gujarat,493,24,945,916,
+Diu,Daman & Diu,494,25,"-1,520",-739,*
+Daman,Daman & Diu,495,25,"1,591",,"-2,174"
+Nandurbar,Maharashtra,497,27,"14,448","15,329",
+Dhule,Maharashtra,498,27,"2,460","2,595",
+Jalgaon,Maharashtra,499,27,"2,558","-2,580","-2,487"
+Buldhana,Maharashtra,500,27,"1,739","1,767",
+Akola,Maharashtra,501,27,"1,759","1,711","-1,941"
+Washim,Maharashtra,502,27,"2,093","2,106",
+Amravati,Maharashtra,503,27,"6,546","5,118","-9,867"
+Wardha,Maharashtra,504,27,"2,796","3,049","2,259"
+Nagpur,Maharashtra,505,27,"1,911","1,837","1,949"
+Bhandara,Maharashtra,506,27,"2,148","2,060",
+Gondiya,Maharashtra,507,27,"1,390","1,483",
+Gadchiroli,Maharashtra,508,27,889,789,
+Chandrapur,Maharashtra,509,27,"1,803","1,858","-1,560"
+Yavatmal,Maharashtra,510,27,"1,938","2,060",
+Nanded,Maharashtra,511,27,"1,982","2,059",
+Hingoli,Maharashtra,512,27,"16,010","11,690",
+Parbhani,Maharashtra,513,27,"3,030","2,890","-3,426"
+Jalna,Maharashtra,514,27,"24,142","24,067",
+Aurangabad,Maharashtra,515,27,"2,863","-3,280","-2,414"
+Nashik,Maharashtra,516,27,"1,162","1,514",993
+Thane,Maharashtra,517,27,"2,221",,"-2,909"
+Mumbai Suburban,Maharashtra,518,27,"3,043",,"3,043"
+Mumbai,Maharashtra,519,27,"8,215",,"8,215"
+Raigarh,Maharashtra,520,27,"3,201","2,502","-4,100"
+Pune,Maharashtra,521,27,"2,231","-2,145",*
+Ahmednagar,Maharashtra,522,27,"4,763","4,872",
+Bid,Maharashtra,523,27,"1,599","1,453",
+Latur,Maharashtra,524,27,"1,486","1,457",
+Osmanabad,Maharashtra,525,27,"2,039","2,173",
+Solapur,Maharashtra,526,27,"1,453","-1,290","-1,722"
+Satara,Maharashtra,527,27,"1,867","-1,403",
+Ratnagiri,Maharashtra,528,27,"4,816","5,141",
+Sindhudurg,Maharashtra,529,27,"5,287","5,607",
+Kolhapur,Maharashtra,530,27,"2,219","-2,355",*
+Sangli,Maharashtra,531,27,"3,480","3,940",
+Adilabad,Telangana,532,28,"4,731","-5,675",
+Nizamabad,Telangana,533,28,"3,561","2,792",
+Karimnagar,Telangana,534,28,"-3,734",*,
+Medak,Telangana,535,28,"4,164","3,148",
+Hyderabad,Telangana,536,28,"2,711",,"2,711"
+Rangareddy,Telangana,537,28,"4,203",,"-4,832"
+Mahbubnagar,Telangana,538,28,"3,504","2,886",
+Nalgonda,Telangana,539,28,"-4,038","-4,204",
+Warangal,Telangana,540,28,"-6,754","-10,147",
+Khammam,Telangana,541,28,"3,206","-3,414",
+Srikakulam,Andhra Pradesh,542,28,"2,938","3,086",
+Vizianagaram,Andhra Pradesh,543,28,"2,015","1,854",
+Visakhapatnam,Andhra Pradesh,544,28,"2,143","-1,723",*
+East Godavari,Andhra Pradesh,545,28,"1,843","1,783",
+West Godavari,Andhra Pradesh,546,28,"-3,118","-3,296",
+Krishna,Andhra Pradesh,547,28,"2,183","-2,675",*
+Guntur,Andhra Pradesh,548,28,"1,267","-1,340",*
+Prakasam,Andhra Pradesh,549,28,"1,616","-1,541",
+Sri Potti Sriramulu Nellore,Andhra Pradesh,550,28,"2,436","-2,069",
+Y.S.R. Cuddapah,Andhra Pradesh,551,28,"3,001","-3,503",*
+Kurnool,Andhra Pradesh,552,28,"1,310","1,191",
+Anantapur,Andhra Pradesh,553,28,"3,509","3,766",
+Chittoor,Andhra Pradesh,554,28,"1,686","1,503",
+Belgaum,Karnataka,555,29,"4,175","4,589",
+Bagalkot,Karnataka,556,29,"1,541","1,205","-2,471"
+Bijapur,Karnataka,557,29,"2,490","2,420",
+Bidar,Karnataka,558,29,"5,358","5,323",
+Raichur,Karnataka,559,29,"1,471","1,574",
+Koppal,Karnataka,560,29,"1,681","1,725",
+Gadag,Karnataka,561,29,"3,744","3,925","3,380"
+Dharwad,Karnataka,562,29,"2,946","3,029","-2,850"
+Uttara Kannada,Karnataka,563,29,"2,609","2,247",
+Haveri,Karnataka,564,29,"2,418","2,630",
+Bellary,Karnataka,565,29,"3,005","2,853","3,343"
+Chitradurga,Karnataka,566,29,"4,427","4,569",
+Davanagere,Karnataka,567,29,"2,566","2,925","-1,501"
+Shimoga,Karnataka,568,29,"6,688","6,411","-7,459"
+Udupi,Karnataka,569,29,"3,179","-3,449",
+Chikmagalur,Karnataka,570,29,"2,965","3,191",
+Tumkur,Karnataka,571,29,"4,683","4,921",
+Bangalore,Karnataka,572,29,"7,469",,"7,995"
+Mandya,Karnataka,573,29,"2,448","2,195",
+Hassan,Karnataka,574,29,"3,289","3,960",
+Dakshina Kannada,Karnataka,575,29,"3,163","-3,812","-2,369"
+Kodagu,Karnataka,576,29,"3,739","3,774",
+Mysore,Karnataka,577,29,"4,456","4,544","4,304"
+Chamarajanagar,Karnataka,578,29,"3,234","3,175",
+Gulbarga,Karnataka,579,29,"1,626","1,919","1,063"
+Yadgir,Karnataka,580,29,"1,640","1,657",
+Kolar,Karnataka,581,29,"3,913","3,879","3,986"
+Chikkaballapura,Karnataka,582,29,"3,350","3,213",
+Bangalore Rural,Karnataka,583,29,"4,634","4,582",
+Ramanagara,Karnataka,584,29,"2,159","2,080",
+North Goa,Goa,585,30,"6,818","9,547","5,200"
+South Goa,Goa,586,30,"1,758",624,"-2,489"
+Kasaragod,Kerala,588,32,"-6,659","-5,850",*
+Kannur,Kerala,589,32,"-7,044",*,"-5,097"
+Wayanad,Kerala,590,32,"4,232","4,124",
+Kozhikode,Kerala,591,32,"-5,068",*,"-5,574"
+Malappuram,Kerala,592,32,"6,202","-5,462","-6,864"
+Palakkad,Kerala,593,32,"-4,337","-4,971",
+Thrissur,Kerala,594,32,"-5,053",*,*
+Ernakulam,Kerala,595,32,*,*,*
+Idukki,Kerala,596,32,"-6,411","-6,515",
+Kottayam,Kerala,597,32,"6,260","-5,546",
+Alappuzha,Kerala,598,32,"-9,472",*,*
+Pathanamthitta,Kerala,599,32,"-7,467","-7,593",
+Kollam,Kerala,600,32,"10,299","-8,692","-12,114"
+Thiruvananthapuram,Kerala,601,32,"8,788","-9,376",*
+Thiruvallur,Tamil Nadu,602,33,"2,075","1,956","-2,172"
+Chennai,Tamil Nadu,603,33,"1,818",,"1,818"
+Kancheepuram,Tamil Nadu,604,33,"2,617","1,801","-3,257"
+Vellore,Tamil Nadu,605,33,"1,479","1,794","1,167"
+Tiruvannamalai,Tamil Nadu,606,33,"1,966","1,996",
+Viluppuram,Tamil Nadu,607,33,"1,727","1,687",
+Salem,Tamil Nadu,608,33,"2,233","2,073","2,446"
+Namakkal,Tamil Nadu,609,33,"2,362","2,456","2,240"
+Erode,Tamil Nadu,610,33,"2,439","2,230","2,653"
+The Nilgiris,Tamil Nadu,611,33,"2,169","2,321","2,107"
+Dindigul,Tamil Nadu,612,33,"2,344","2,291","2,487"
+Karur,Tamil Nadu,613,33,"2,247","2,367","1,977"
+Tiruchirappalli,Tamil Nadu,614,33,"1,160","1,196","-1,116"
+Perambalur,Tamil Nadu,615,33,"2,570","2,588",
+Ariyalur,Tamil Nadu,616,33,"2,662","2,767",
+Cuddalore,Tamil Nadu,617,33,"3,150","2,982","3,766"
+Nagapattinam,Tamil Nadu,618,33,"3,054","3,225",
+Thiruvarur,Tamil Nadu,619,33,"3,043","2,906",
+Thanjavur,Tamil Nadu,620,33,"1,921","1,671","2,494"
+Pudukkottai,Tamil Nadu,621,33,"3,444","3,841",
+Sivaganga,Tamil Nadu,622,33,"3,602","3,075","-5,675"
+Madurai,Tamil Nadu,623,33,"3,141","2,752","3,379"
+Theni,Tamil Nadu,624,33,"2,036","1,999","-2,065"
+Virudhunagar,Tamil Nadu,625,33,"6,539","8,621","-3,897"
+Ramanathapuram,Tamil Nadu,626,33,"3,949","3,267","-6,293"
+Thoothukkudi,Tamil Nadu,627,33,"2,585","-3,438","-1,873"
+Tirunelveli,Tamil Nadu,628,33,"4,552","-5,150","-3,480"
+Kanniyakumari,Tamil Nadu,629,33,"5,025",,"-6,346"
+Dharmapuri,Tamil Nadu,630,33,"1,796","1,855",
+Krishnagiri,Tamil Nadu,631,33,"2,108","1,900",
+Coimbatore,Tamil Nadu,632,33,"2,429",,"1,923"
+Tiruppur,Tamil Nadu,633,33,"2,375","1,752","2,625"
+Yanam,Puducherry,634,34,"2,514",,"2,514"
+Puducherry,Puducherry,635,34,"1,908","1,507","2,080"
+Mahe,Puducherry,636,34,"2,594",,"2,594"
+Karaikal,Puducherry,637,34,"2,311","1,972","2,691"
+Nicobar,Andaman & Nicobar Islands,638,35,"1,787","1,787",
+North & Middle Andaman,Andaman & Nicobar Islands,639,35,"1,082","1,107",
+South Andaman,Andaman & Nicobar Islands,640,35,"1,279","1,965",798

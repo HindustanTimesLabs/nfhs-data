@@ -1,0 +1,638 @@
+district,state,district_census_code,state_census_code,total,rural,urban
+Kupwara,Jammu & Kashmir,1,1,1,1.4,
+Badgam,Jammu & Kashmir,2,1,0.7,0.9,
+Leh(Ladakh),Jammu & Kashmir,3,1,3.1,1.1,5.9
+Kargil,Jammu & Kashmir,4,1,0.4,0.6,
+Punch,Jammu & Kashmir,5,1,2.7,2.3,
+Rajouri,Jammu & Kashmir,6,1,2.4,2.2,
+Kathua,Jammu & Kashmir,7,1,2.6,3.2,
+Baramula,Jammu & Kashmir,8,1,1.5,2.2,
+Bandipore,Jammu & Kashmir,9,1,1.3,1.9,
+Srinagar,Jammu & Kashmir,10,1,0,,0
+Ganderbal,Jammu & Kashmir,11,1,3.7,1.9,
+Pulwama,Jammu & Kashmir,12,1,1.3,0.9,
+Shupiyan,Jammu & Kashmir,13,1,1.4,1.3,
+Anantnag,Jammu & Kashmir,14,1,2.5,1.8,
+Kulgam,Jammu & Kashmir,15,1,1.8,1.9,
+Doda,Jammu & Kashmir,16,1,2.5,2.3,
+Ramban,Jammu & Kashmir,17,1,0.8,0.9,
+Kishtwar,Jammu & Kashmir,18,1,2.2,1.9,
+Udhampur,Jammu & Kashmir,19,1,0,0,
+Reasi,Jammu & Kashmir,20,1,3,3.2,
+Jammu,Jammu & Kashmir,21,1,2,0.8,3.2
+Samba,Jammu & Kashmir,22,1,5.5,5.6,
+Chamba,Himachal Pradesh,23,2,4.2,4.6,
+Kangra,Himachal Pradesh,24,2,4,4.4,
+Lahul and Spiti,Himachal Pradesh,25,2,6.2,6.2,
+Kullu,Himachal Pradesh,26,2,3.9,3.9,
+Mandi,Himachal Pradesh,27,2,3.8,3.6,
+Hamirpur,Himachal Pradesh,28,2,6.2,6.8,
+Una,Himachal Pradesh,29,2,4.1,4.6,
+Bilaspur,Himachal Pradesh,30,2,2.8,2.2,
+Solan,Himachal Pradesh,31,2,3.2,4.7,
+Sirmaur,Himachal Pradesh,32,2,4.5,4.8,
+Shimla,Himachal Pradesh,33,2,3,2.6,
+Kinnaur,Himachal Pradesh,34,2,5,5,
+Gurdaspur,Punjab,35,3,3.4,1.7,
+Kapurthala,Punjab,36,3,1.7,1.4,2.3
+Jalandhar,Punjab,37,3,1.8,1.4,2.1
+Hoshiarpur,Punjab,38,3,7.2,6.8,
+Sahid Bhagat Singh Nagar,Punjab,39,3,2.4,3.1,*
+Fatehgarh Sahib,Punjab,40,3,3.9,4.5,-2.2
+Ludhiana,Punjab,41,3,2.6,1.4,3.2
+Moga,Punjab,42,3,1.8,2.5,
+Firozpur,Punjab,43,3,4.7,4.2,
+Muktsar,Punjab,44,3,4.3,3.6,
+Faridkot,Punjab,45,3,1.7,0.9,4.7
+Bathinda,Punjab,46,3,1.2,1.1,1.3
+Mansa,Punjab,47,3,3.6,3.9,
+Patiala,Punjab,48,3,2.3,1.2,3.2
+Amritsar,Punjab,49,3,0,0,0
+Tarn Taran,Punjab,50,3,4.5,3.3,
+Rup Nagar,Punjab,51,3,3.5,4.6,
+Sahibzada Ajit Singh Nagar,Punjab,52,3,3.4,4.4,2.6
+Sangrur,Punjab,53,3,5.8,7.8,
+Barnala,Punjab,54,3,5.5,8,0
+Uttarkashi,Uttarakhand,56,5,3.7,2.8,
+Chamoli,Uttarakhand,57,5,2.2,1.2,
+Rudraprayag,Uttarakhand,58,5,0,0,
+Tehri Garhwal,Uttarakhand,59,5,0,0,
+Dehradun,Uttarakhand,60,5,3.8,3.2,4.1
+Garhwal,Uttarakhand,61,5,4,5.2,
+Pithoragarh,Uttarakhand,62,5,1.1,0,
+Bageshwar,Uttarakhand,63,5,0.8,0.9,
+Almora,Uttarakhand,64,5,3.3,4,
+Champawat,Uttarakhand,65,5,2.9,3,
+Nainital,Uttarakhand,66,5,4.5,5.2,3.7
+Udham Singh Nagar,Uttarakhand,67,5,4.5,3.4,5.9
+Hardwar,Uttarakhand,68,5,2.9,1.5,5.2
+Panchkula,Haryana,69,6,2.2,1.3,2.9
+Ambala,Haryana,70,6,1.6,0,3.9
+Yamunanagar,Haryana,71,6,0,0,0
+Kurukshetra,Haryana,72,6,1.6,1.5,
+Kaithal,Haryana,73,6,0.6,0.9,
+Karnal,Haryana,74,6,1.9,2.6,0
+Panipat,Haryana,75,6,0,0,0
+Sonipat,Haryana,76,6,1.1,0,3.3
+Jind,Haryana,77,6,1.6,2,
+Fatehabad,Haryana,78,6,2.4,2.1,
+Sirsa,Haryana,79,6,1.1,0.8,
+Hisar,Haryana,80,6,0.6,0,1.7
+Bhiwani,Haryana,81,6,1.7,2.3,
+Rohtak,Haryana,82,6,2.4,1,4.1
+Jhajjar,Haryana,83,6,2.7,3.7,
+Mahendragarh,Haryana,84,6,2.4,2.1,
+Rewari,Haryana,85,6,3.8,4.7,
+Gurgaon,Haryana,86,6,1,4.2,0
+Mewat,Haryana,87,6,1.4,2.1,
+Faridabad,Haryana,88,6,2.6,,2
+Palwal,Haryana,89,6,5.6,4.5,
+North West,NCT Delhi,90,7,0,,0
+North,NCT Delhi,91,7,-2.2,,-2.3
+North East,NCT Delhi,92,7,0,,0
+East,NCT Delhi,93,7,0.8,,0.8
+New Delhi,NCT Delhi,94,7,0,,0
+Central,NCT Delhi,95,7,0,,0
+West,NCT Delhi,96,7,0,,0
+South West,NCT Delhi,97,7,2.2,,2.2
+South,NCT Delhi,98,7,0,,0
+Ganganagar,Rajasthan,99,8,4.8,3.7,
+Hanumangarh,Rajasthan,100,8,3.1,3.2,
+Bikaner,Rajasthan,101,8,2.3,2.9,1.4
+Churu,Rajasthan,102,8,2.9,2,
+Jhunjhunun,Rajasthan,103,8,1.2,1.6,
+Alwar,Rajasthan,104,8,0.7,0.9,
+Bharatpur,Rajasthan,105,8,1.9,0.7,
+Dhaulpur,Rajasthan,106,8,0,0,
+Karauli,Rajasthan,107,8,1.2,0,
+Sawai Madhopur,Rajasthan,108,8,0.6,0.7,
+Dausa,Rajasthan,109,8,1.4,0.8,
+Jaipur,Rajasthan,110,8,3.1,4.4,2
+Sikar,Rajasthan,111,8,1.3,1,
+Nagaur,Rajasthan,112,8,1.3,0.7,
+Jodhpur,Rajasthan,113,8,2.2,2.7,1.4
+Jaisalmer,Rajasthan,114,8,1.3,1.5,
+Barmer,Rajasthan,115,8,2,2.2,
+Jalor,Rajasthan,116,8,0.6,0.7,
+Sirohi,Rajasthan,117,8,0.8,0,
+Pali,Rajasthan,118,8,0.8,1.1,
+Ajmer,Rajasthan,119,8,1.6,1.4,1.8
+Tonk,Rajasthan,120,8,0.8,1,
+Bundi,Rajasthan,121,8,4,4.5,
+Bhilwara,Rajasthan,122,8,0,0,
+Rajsamand,Rajasthan,123,8,0,0,
+Dungarpur,Rajasthan,124,8,0.6,0.7,
+Banswara,Rajasthan,125,8,0.8,0.9,
+Chittaurgarh,Rajasthan,126,8,1.3,0,
+Kota,Rajasthan,127,8,1.4,1.1,1.6
+Baran,Rajasthan,128,8,1.3,0.9,
+Jhalawar,Rajasthan,129,8,1.9,2.3,
+Udaipur,Rajasthan,130,8,1.6,2,
+Pratapgarh,Rajasthan,131,8,0,0,
+Saharanpur,Uttar Pradesh,132,9,0.9,0,2.8
+Muzaffarnagar,Uttar Pradesh,133,9,1.1,0,
+Bijnor,Uttar Pradesh,134,9,0,0,
+Moradabad,Uttar Pradesh,135,9,0.7,0.6,1
+Rampur,Uttar Pradesh,136,9,0,0,
+Jyotiba Phule Nagar,Uttar Pradesh,137,9,1.1,0,
+Meerut,Uttar Pradesh,138,9,2.8,3,2.7
+Baghpat,Uttar Pradesh,139,9,1.2,0.7,
+Ghaziabad,Uttar Pradesh,140,9,0.9,0,1.1
+Gautam Buddha Nagar,Uttar Pradesh,141,9,1.8,1.6,1.9
+Bulandshahr,Uttar Pradesh,142,9,1.9,1.7,
+Aligarh,Uttar Pradesh,143,9,1.4,0.5,2.9
+Mahamaya Nagar,Uttar Pradesh,144,9,4.1,0.9,
+Mathura,Uttar Pradesh,145,9,0,0,
+Agra,Uttar Pradesh,146,9,1.3,1.2,1.5
+Firozabad,Uttar Pradesh,147,9,0.8,0.5,1
+Mainpuri,Uttar Pradesh,148,9,0.6,0.8,
+Budaun,Uttar Pradesh,149,9,1.2,1.7,
+Bareilly,Uttar Pradesh,150,9,1.8,1.2,2.6
+Pilibhit,Uttar Pradesh,151,9,1.2,1.6,
+Shahjahanpur,Uttar Pradesh,152,9,1.6,0.7,
+Kheri,Uttar Pradesh,153,9,1.4,0.8,
+Sitapur,Uttar Pradesh,154,9,0,0,
+Hardoi,Uttar Pradesh,155,9,1.3,1.5,
+Unnao,Uttar Pradesh,156,9,0.8,0,
+Lucknow,Uttar Pradesh,157,9,0,0,0
+Rae Bareli,Uttar Pradesh,158,9,0.6,0.7,
+Farrukhabad,Uttar Pradesh,159,9,1.2,0.9,
+Kannauj,Uttar Pradesh,160,9,1.9,2.5,
+Etawah,Uttar Pradesh,161,9,1.3,1.7,
+Auraiya,Uttar Pradesh,162,9,0,0,
+Kanpur Dehat,Uttar Pradesh,163,9,0,0,
+Kanpur Nagar,Uttar Pradesh,164,9,1,0.9,1
+Jalaun,Uttar Pradesh,165,9,0,0,
+Jhansi,Uttar Pradesh,166,9,1.1,0,2.2
+Lalitpur,Uttar Pradesh,167,9,0,0,
+Hamirpur,Uttar Pradesh,168,9,2.2,2.3,
+Mahoba,Uttar Pradesh,169,9,0.8,0,
+Banda,Uttar Pradesh,170,9,1.6,1,
+Chitrakoot,Uttar Pradesh,171,9,0.9,0,
+Fatehpur,Uttar Pradesh,172,9,1.4,0.9,
+Pratapgarh,Uttar Pradesh,173,9,0,0,
+Kaushambi,Uttar Pradesh,174,9,1.2,0,
+Allahabad,Uttar Pradesh,175,9,4.5,3.6,
+Bara Banki,Uttar Pradesh,176,9,1.5,1.9,
+Faizabad,Uttar Pradesh,177,9,0.8,0,
+Ambedkar Nagar,Uttar Pradesh,178,9,1.3,0.6,
+Sultanpur,Uttar Pradesh,179,9,0,0,
+Bahraich,Uttar Pradesh,180,9,3.1,2.9,
+Shrawasti,Uttar Pradesh,181,9,0.9,1,
+Balrampur,Uttar Pradesh,182,9,3.4,1,
+Gonda,Uttar Pradesh,183,9,3.3,3.5,
+Siddharthnagar,Uttar Pradesh,184,9,1,0,
+Basti,Uttar Pradesh,185,9,4.2,3,
+Sant Kabir Nagar,Uttar Pradesh,186,9,2.4,1.9,
+Maharajganj,Uttar Pradesh,187,9,5.7,5.1,
+Gorakhpur,Uttar Pradesh,188,9,2.2,2.8,
+Kushinagar,Uttar Pradesh,189,9,4.6,4.5,
+Deoria,Uttar Pradesh,190,9,1.5,0.9,
+Azamgarh,Uttar Pradesh,191,9,0.8,1.1,
+Mau,Uttar Pradesh,192,9,1.3,1.7,
+Ballia,Uttar Pradesh,193,9,3.1,2.8,
+Jaunpur,Uttar Pradesh,194,9,1.9,1.4,
+Ghazipur,Uttar Pradesh,195,9,1.4,1.5,
+Chandauli,Uttar Pradesh,196,9,1.6,1.9,
+Varanasi,Uttar Pradesh,197,9,0.7,1.1,0.4
+Sant Ravidas Nagar,Uttar Pradesh,198,9,2.2,0.8,
+Mirzapur,Uttar Pradesh,199,9,0.7,0,
+Sonbhadra,Uttar Pradesh,200,9,1.4,1.7,
+Etah,Uttar Pradesh,201,9,1.9,1.8,
+Kanshiram Nagar,Uttar Pradesh,202,9,0.8,1,
+Pashchim Champaran,Bihar,203,10,3.4,1.1,
+Purba Champaran,Bihar,204,10,1.9,0,
+Sheohar,Bihar,205,10,0.8,0,
+Sitamarhi,Bihar,206,10,2.8,3.2,
+Madhubani,Bihar,207,10,0.6,0,
+Supaul,Bihar,208,10,3.1,2.7,
+Araria,Bihar,209,10,0,0,
+Kishanganj,Bihar,210,10,2.2,2.5,
+Purnia,Bihar,211,10,0.8,0.9,
+Katihar,Bihar,212,10,0,0,
+Madhepura,Bihar,213,10,0.9,1,
+Saharsa,Bihar,214,10,0.8,0.9,
+Darbhanga,Bihar,215,10,1.9,2.1,
+Muzaffarpur,Bihar,216,10,0.9,1,
+Gopalganj,Bihar,217,10,4,4.2,
+Siwan,Bihar,218,10,0.6,0.7,
+Saran,Bihar,219,10,3,3.5,
+Vaishali,Bihar,220,10,1.6,1.8,
+Samastipur,Bihar,221,10,1,1,
+Begusarai,Bihar,222,10,0.6,0.8,
+Khagaria,Bihar,223,10,2.2,1.7,
+Bhagalpur,Bihar,224,10,0,0,
+Banka,Bihar,225,10,0,0,
+Munger,Bihar,226,10,1.8,1.8,
+Lakhisarai,Bihar,227,10,0.7,0.9,
+Sheikhpura,Bihar,228,10,0,0,
+Nalanda,Bihar,229,10,0,0,
+Patna,Bihar,230,10,1,0.6,1.4
+Bhojpur,Bihar,231,10,1.1,1.4,
+Buxar,Bihar,232,10,1.5,1.8,
+Kaimur,Bihar,233,10,0.6,0.7,
+Rohtas,Bihar,234,10,1.1,1.5,
+Aurangabad,Bihar,235,10,0,0,
+Gaya,Bihar,236,10,1.3,1.6,
+Nawada,Bihar,237,10,1.5,1.8,
+Jamui,Bihar,238,10,1.7,1.3,
+Jehanabad,Bihar,239,10,0,0,
+Arwal,Bihar,240,10,0,0,
+North District,Sikkim,241,11,2.8,3.7,
+West District,Sikkim,242,11,4.6,3.6,
+South District,Sikkim,243,11,-5.6,*,
+East District,Sikkim,244,11,4.8,1.7,7.4
+Tawang,Arunachal Pradesh,245,12,13.5,11.9,
+West Kameng,Arunachal Pradesh,246,12,6.5,5.6,
+East Kameng,Arunachal Pradesh,247,12,0,0,
+Papumpare,Arunachal Pradesh,248,12,6,4.1,7.1
+Upper Subansiri,Arunachal Pradesh,249,12,6,7.6,
+West Siang,Arunachal Pradesh,250,12,2.3,2.9,
+East Siang,Arunachal Pradesh,251,12,2.4,2.2,
+Upper Siang,Arunachal Pradesh,252,12,2.9,3.6,
+Changlang,Arunachal Pradesh,253,12,2.5,2.9,
+Tirap,Arunachal Pradesh,254,12,0,0,
+Lower Subansiri,Arunachal Pradesh,255,12,9.1,6,
+Kurung Kumey,Arunachal Pradesh,256,12,1.5,1.5,
+Dibang Valley,Arunachal Pradesh,257,12,2,2,
+Lower Dibang Valley,Arunachal Pradesh,258,12,2.8,2.3,
+Lohit,Arunachal Pradesh,259,12,3.8,3.1,
+Anjaw,Arunachal Pradesh,260,12,11,9.3,
+Mon,Nagaland,261,13,4.7,3,
+Mokokchung,Nagaland,262,13,10,-9.7,
+Zunheboto,Nagaland,263,13,3.1,2.2,
+Wokha,Nagaland,264,13,7.8,0,
+Dimapur,Nagaland,265,13,4.2,3.4,4.9
+Phek,Nagaland,266,13,5.9,5.3,
+Tuensang,Nagaland,267,13,1.5,1.9,
+Longleng,Nagaland,268,13,2.5,1.9,
+Kiphire,Nagaland,269,13,4.1,5.6,
+Kohima,Nagaland,270,13,8.3,9.6,7.9
+Peren,Nagaland,271,13,4.2,2.5,
+Senapati,Manipur,272,14,3.2,3.4,
+Tamenglong,Manipur,273,14,1.6,2.1,
+Churachandpur,Manipur,274,14,1.1,0,
+Bishnupur,Manipur,275,14,4.3,3.6,5.1
+Thoubal,Manipur,276,14,4.3,4.1,4.6
+Imphal West,Manipur,277,14,3,0.9,4.3
+Imphal East,Manipur,278,14,3.1,2.5,4
+Ukhrul,Manipur,279,14,3,2.4,
+Chandel,Manipur,280,14,0.9,0.3,
+Mamit,Mizoram,281,15,2.5,3.1,
+Kolasib,Mizoram,282,15,3.4,0.2,4.4
+Aizawl,Mizoram,283,15,6,,6.6
+Champhai,Mizoram,284,15,2.6,2.1,3.2
+Serchhip,Mizoram,285,15,3.3,0,4.5
+Lunglei,Mizoram,286,15,4.5,3.5,5.9
+Lawngtlai,Mizoram,287,15,3.9,2.3,
+Saiha,Mizoram,288,15,0.5,0,0.8
+West Tripura,Tripura,289,16,2.1,2.2,1.9
+South Tripura,Tripura,290,16,0,0,
+Dhalai,Tripura,291,16,2.9,1.2,
+North Tripura,Tripura,292,16,1.1,0.7,
+West Garo Hills,Meghalaya,293,17,2.8,2.9,
+East Garo Hills,Meghalaya,294,17,1.5,0.9,
+South Garo Hills,Meghalaya,295,17,1.7,1.9,
+West Khasi Hills,Meghalaya,296,17,0.9,1.1,
+Ribhoi,Meghalaya,297,17,0,0,
+East Khasi Hills,Meghalaya,298,17,1.2,0.8,1.6
+Jaintia Hills,Meghalaya,299,17,0.7,0.9,
+Kokrajhar,Assam,300,18,6.6,5.6,
+Dhubri,Assam,301,18,1.7,1.9,
+Goalpara,Assam,302,18,1.2,1.4,
+Barpeta,Assam,303,18,7.1,6.3,
+Morigaon,Assam,304,18,3.6,3.4,
+Nagaon,Assam,305,18,1.8,1.7,
+Sonitpur,Assam,306,18,0.8,0.9,
+Lakhimpur,Assam,307,18,4.6,3.6,
+Dhemaji,Assam,308,18,3.1,3.3,
+Tinsukia,Assam,309,18,5,3.7,
+Dibrugarh,Assam,310,18,2.8,1.5,
+Sivasagar,Assam,311,18,5.1,4.6,
+Jorhat,Assam,312,18,4.2,3.9,
+Golaghat,Assam,313,18,2.9,1.5,
+Karbi Anglong,Assam,314,18,1.8,0.7,
+Dima Hasao,Assam,315,18,2.2,0,
+Cachar,Assam,316,18,1.9,0.7,
+Karimganj,Assam,317,18,3,3.6,
+Hailakandi,Assam,318,18,0.6,0.7,
+Bongaigaon,Assam,319,18,6.5,5.3,
+Chirang,Assam,320,18,3.7,3.6,
+Kamrup,Assam,321,18,0.9,1.1,
+Kamrup Metropolitan,Assam,322,18,2,,1.5
+Nalbari,Assam,323,18,4.6,5.2,
+Baksa,Assam,324,18,1.7,1.8,
+Darrang,Assam,325,18,2.8,2.3,
+Udalguri,Assam,326,18,5.9,6.3,
+Darjiling,West Bengal,327,19,3.2,1.8,5.3
+Jalpaiguri,West Bengal,328,19,1.8,1.2,
+Koch Bihar,West Bengal,329,19,1.6,0.9,
+Uttar Dinajpur,West Bengal,330,19,2.3,1.8,
+Dakshin Dinajpur,West Bengal,331,19,2.4,1.8,
+Maldah,West Bengal,332,19,3.2,3.8,
+Murshidabad,West Bengal,333,19,0,0,
+Birbhum,West Bengal,334,19,1.2,0.7,
+Barddhaman,West Bengal,335,19,0.6,0,1.5
+Nadia,West Bengal,336,19,0.7,0.9,
+North Twenty Four Parganas,West Bengal,337,19,1.8,3.2,0
+Hugli,West Bengal,338,19,4.3,1.9,-8.4
+Bankura,West Bengal,339,19,0,0,
+Puruliya,West Bengal,340,19,0.8,0,
+Haora,West Bengal,341,19,2.7,5.7,0.8
+Kolkata,West Bengal,342,19,3.5,,3.5
+South Twenty Four Parganas,West Bengal,343,19,1.1,1.3,
+Paschim Medinipur,West Bengal,344,19,2.9,1.1,
+Purba Medinipur,West Bengal,345,19,1.5,1.9,
+Garhwa,Jharkhand,346,20,0,0,
+Chatra,Jharkhand,347,20,1.4,1.5,
+Kodarma,Jharkhand,348,20,0,0,
+Giridih,Jharkhand,349,20,1.5,1.8,
+Deoghar,Jharkhand,350,20,3.9,1.7,
+Godda,Jharkhand,351,20,3.2,3.4,
+Sahibganj,Jharkhand,352,20,2.3,0.8,
+Pakur,Jharkhand,353,20,2.1,1.6,
+Dhanbad,Jharkhand,354,20,1.2,1.3,1
+Bokaro,Jharkhand,355,20,1.2,0,2.5
+Lohardaga,Jharkhand,356,20,6.8,6.5,
+Purbi Singhbhum,Jharkhand,357,20,0.7,0.6,0.7
+Palamu,Jharkhand,358,20,1.2,0.8,
+Latehar,Jharkhand,359,20,2.7,3.1,
+Hazaribagh,Jharkhand,360,20,2.6,2.3,
+Ramgarh,Jharkhand,361,20,2.7,1.3,4.3
+Dumka,Jharkhand,362,20,3.2,3.6,
+Jamtara,Jharkhand,363,20,1.2,1.4,
+Ranchi,Jharkhand,364,20,3,2.6,3.5
+Khunti,Jharkhand,365,20,2.4,2.3,
+Gumla,Jharkhand,366,20,0.9,0.9,
+Simdega,Jharkhand,367,20,4.2,4.8,
+Pashchimi Singhbhum,Jharkhand,368,20,4,3.6,
+Saraikela Kharsawan,Jharkhand,369,20,0.6,0.9,
+Bargarh,Odisha,370,21,1.4,1,
+Jharsuguda,Odisha,371,21,0.6,0,1.6
+Sambalpur,Odisha,372,21,2.4,2.4,
+Debagarh,Odisha,373,21,4.3,4.8,
+Sundargarh,Odisha,374,21,2.4,2.5,2.3
+Kendujhar,Odisha,375,21,4.9,2.4,
+Mayurbhanj,Odisha,376,21,3.2,3.1,
+Baleshwar,Odisha,377,21,3.1,2,
+Bhadrak,Odisha,378,21,2.2,1.5,
+Kendrapara,Odisha,379,21,2.5,2.7,
+Jagatsinghapur,Odisha,380,21,0.8,0.9,
+Cuttack,Odisha,381,21,1.5,2.2,
+Jajapur,Odisha,382,21,1.9,0.9,
+Dhenkanal,Odisha,383,21,1.3,0.9,
+Anugul,Odisha,384,21,3.7,2.7,
+Nayagarh,Odisha,385,21,2.3,1.9,
+Khordha,Odisha,386,21,1.6,2,1.4
+Puri,Odisha,387,21,0,0,
+Ganjam,Odisha,388,21,1.3,1.6,
+Gajapati,Odisha,389,21,2.4,2.6,
+Kandhamal,Odisha,390,21,1.3,0.9,
+Baudh,Odisha,391,21,0,0,
+Subarnapur,Odisha,392,21,1,0,
+Balangir,Odisha,393,21,1.5,1.1,
+Nuapada,Odisha,394,21,2.1,1.7,
+Kalahandi,Odisha,395,21,0,0,
+Rayagada,Odisha,396,21,0,0,
+Nabarangapur,Odisha,397,21,1.2,0.7,
+Koraput,Odisha,398,21,3.6,1.7,
+Malkangiri,Odisha,399,21,4.4,1.8,
+Korea,Chhattisgarh,400,22,0.8,0.5,1.6
+Surguja,Chhattisgarh,401,22,2.9,1.6,
+Jashpur,Chhattisgarh,402,22,3.5,3.3,
+Raigarh,Chhattisgarh,403,22,4.9,2.5,
+Korba,Chhattisgarh,404,22,3.5,3.7,3.1
+Janjgir Champa,Chhattisgarh,405,22,2.2,2.2,
+Bilaspur,Chhattisgarh,406,22,2.5,0.8,
+Kabirdham,Chhattisgarh,407,22,1.7,1.1,
+Rajnandgaon,Chhattisgarh,408,22,0,0,
+Durg,Chhattisgarh,409,22,3.2,0.4,7.3
+Raipur,Chhattisgarh,410,22,2.1,2.9,0.8
+Mahasamund,Chhattisgarh,411,22,1.1,0.7,
+Dhamtari,Chhattisgarh,412,22,1.7,0.7,
+Uttar Bastar Kanker,Chhattisgarh,413,22,2.1,2.5,
+Bastar,Chhattisgarh,414,22,1.2,1.5,
+Narayanpur,Chhattisgarh,415,22,0,0,
+Dakshin Bastar Dantewada,Chhattisgarh,416,22,0,0,
+Bijapur,Chhattisgarh,417,22,1.9,1.4,
+Sheopur,Madhya Pradesh,418,23,0,0,
+Morena,Madhya Pradesh,419,23,1,0,
+Bhind,Madhya Pradesh,420,23,0.6,0,
+Gwalior,Madhya Pradesh,421,23,1.7,0.6,2.4
+Datia,Madhya Pradesh,422,23,1.3,0.8,
+Shivpuri,Madhya Pradesh,423,23,2.5,0.7,
+Tikamgarh,Madhya Pradesh,424,23,2.2,1,
+Chhatarpur,Madhya Pradesh,425,23,1.5,2,
+Panna,Madhya Pradesh,426,23,2,1,
+Sagar,Madhya Pradesh,427,23,3.3,4.8,
+Damoh,Madhya Pradesh,428,23,1.6,0,
+Satna,Madhya Pradesh,429,23,2.9,3.1,
+Rewa,Madhya Pradesh,430,23,0.6,0,
+Umaria,Madhya Pradesh,431,23,1.4,1.8,
+Neemuch,Madhya Pradesh,432,23,5.3,4.9,
+Mandsaur,Madhya Pradesh,433,23,5.4,5.7,
+Ratlam,Madhya Pradesh,434,23,5.5,5.7,
+Ujjain,Madhya Pradesh,435,23,3.5,3,4.3
+Shajapur,Madhya Pradesh,436,23,0.6,0.8,
+Dewas,Madhya Pradesh,437,23,3.1,3.1,
+Dhar,Madhya Pradesh,438,23,2,2.9,
+Indore,Madhya Pradesh,439,23,1.1,,1.5
+Khargone (West Nimar),Madhya Pradesh,440,23,2.9,3,
+Barwani,Madhya Pradesh,441,23,2.7,2.9,
+Rajgarh,Madhya Pradesh,442,23,0,0,
+Vidisha,Madhya Pradesh,443,23,1.8,2.5,
+Bhopal,Madhya Pradesh,444,23,4,,4.8
+Sehore,Madhya Pradesh,445,23,1.1,1.5,
+Raisen,Madhya Pradesh,446,23,2,1,
+Betul,Madhya Pradesh,447,23,0.8,1,
+Harda,Madhya Pradesh,448,23,1,1.3,
+Hoshangabad,Madhya Pradesh,449,23,0.9,1.2,0.6
+Katni,Madhya Pradesh,450,23,0.7,0.9,
+Jabalpur,Madhya Pradesh,451,23,2.8,4.1,1.6
+Narsimhapur,Madhya Pradesh,452,23,1.4,2,
+Dindori,Madhya Pradesh,453,23,2.3,2.5,
+Mandla,Madhya Pradesh,454,23,4.6,4.5,
+Chhindwara,Madhya Pradesh,455,23,1.7,1.4,
+Seoni,Madhya Pradesh,456,23,4,3.3,
+Balaghat,Madhya Pradesh,457,23,0,0,
+Guna,Madhya Pradesh,458,23,0.8,1.2,
+Ashoknagar,Madhya Pradesh,459,23,0,0,
+Shahdol,Madhya Pradesh,460,23,0.7,0.8,
+Anuppur,Madhya Pradesh,461,23,0.8,1.1,
+Sidhi,Madhya Pradesh,462,23,1.6,1.2,
+Singrauli,Madhya Pradesh,463,23,1.8,1.5,
+Jhabua,Madhya Pradesh,464,23,2.2,1.3,
+Alirajpur,Madhya Pradesh,465,23,1.9,2.2,
+Khandwa (East Nimar),Madhya Pradesh,466,23,2.1,1.3,
+Burhanpur,Madhya Pradesh,467,23,1.7,1.7,1.7
+Kachchh,Gujarat,468,24,1.4,2.2,0
+Banaskantha,Gujarat,469,24,2.1,2.6,
+Patan,Gujarat,470,24,0.3,0,
+Mahesena,Gujarat,471,24,1.8,2.5,
+Sabarkantha,Gujarat,472,24,3.8,2.8,
+Gandhinagar,Gujarat,473,24,1.7,2.1,1.4
+Ahmadabad,Gujarat,474,24,3.3,,4.3
+Surendranagar,Gujarat,475,24,0.9,0.8,
+Rajkot,Gujarat,476,24,0,0,0
+Jamnagar,Gujarat,477,24,0,0,0
+Porbandar,Gujarat,478,24,0.4,0,0.9
+Junagadh,Gujarat,479,24,0.3,0,0.9
+Amreli,Gujarat,480,24,1.5,2.1,
+Bhavnagar,Gujarat,481,24,2.9,2.9,2.9
+Anand,Gujarat,482,24,1.7,1.3,2.9
+Kheda,Gujarat,483,24,3.4,4.1,
+Panchmahal,Gujarat,484,24,3.1,4.1,
+Dohad,Gujarat,485,24,2.6,3.3,
+Vadodara,Gujarat,486,24,3.8,5.2,2.7
+Narmada,Gujarat,487,24,2.7,2.3,
+Bharuch,Gujarat,488,24,4.1,3.8,4.7
+The Dangs,Gujarat,489,24,2.9,3.6,
+Navsari,Gujarat,490,24,3.9,2.2,8.3
+Valsad,Gujarat,491,24,3,4,1.4
+Surat,Gujarat,492,24,2.1,,1
+Tapi,Gujarat,493,24,3.4,3.3,
+Diu,Daman & Diu,494,25,2.3,2.4,2.3
+Daman,Daman & Diu,495,25,0.4,,0
+Nandurbar,Maharashtra,497,27,4.4,4.1,
+Dhule,Maharashtra,498,27,2.9,2.7,
+Jalgaon,Maharashtra,499,27,6,6.1,5.9
+Buldhana,Maharashtra,500,27,4,2.4,
+Akola,Maharashtra,501,27,1.9,1.4,3.1
+Washim,Maharashtra,502,27,3.1,3.8,
+Amravati,Maharashtra,503,27,2.1,2.4,1.6
+Wardha,Maharashtra,504,27,0.5,0,1.3
+Nagpur,Maharashtra,505,27,2.6,3.7,2
+Bhandara,Maharashtra,506,27,0.8,1,
+Gondiya,Maharashtra,507,27,4.2,3.8,
+Gadchiroli,Maharashtra,508,27,1.9,2.2,
+Chandrapur,Maharashtra,509,27,3,2,4.9
+Yavatmal,Maharashtra,510,27,3.5,3.2,
+Nanded,Maharashtra,511,27,0.6,0,
+Hingoli,Maharashtra,512,27,2.7,2.1,
+Parbhani,Maharashtra,513,27,2.6,3.2,1.2
+Jalna,Maharashtra,514,27,0.8,1,
+Aurangabad,Maharashtra,515,27,4.9,2.5,7.8
+Nashik,Maharashtra,516,27,1,0.9,1.2
+Thane,Maharashtra,517,27,4.8,,5.2
+Mumbai Suburban,Maharashtra,518,27,1.7,,1.7
+Mumbai,Maharashtra,519,27,-9.3,,-9.3
+Raigarh,Maharashtra,520,27,1.5,0,3.8
+Pune,Maharashtra,521,27,6.4,5.5,6.9
+Ahmednagar,Maharashtra,522,27,7.1,6.3,
+Bid,Maharashtra,523,27,0.8,1,
+Latur,Maharashtra,524,27,3.7,2.5,
+Osmanabad,Maharashtra,525,27,1.4,1.1,
+Solapur,Maharashtra,526,27,3.6,3.9,3
+Satara,Maharashtra,527,27,1.3,0,
+Ratnagiri,Maharashtra,528,27,3.4,0,
+Sindhudurg,Maharashtra,529,27,8.4,-9.9,
+Kolhapur,Maharashtra,530,27,3.5,3.7,3.2
+Sangli,Maharashtra,531,27,1.7,1,
+Adilabad,Telangana,532,28,5.5,3.9,
+Nizamabad,Telangana,533,28,1.4,1.7,
+Karimnagar,Telangana,534,28,2.2,1.4,
+Medak,Telangana,535,28,3.4,2.7,
+Hyderabad,Telangana,536,28,3.4,,3.4
+Rangareddy,Telangana,537,28,3.9,,4.6
+Mahbubnagar,Telangana,538,28,2.1,2.5,
+Nalgonda,Telangana,539,28,2.8,3.6,
+Warangal,Telangana,540,28,4.5,6.1,
+Khammam,Telangana,541,28,2.4,3.3,
+Srikakulam,Andhra Pradesh,542,28,0.9,0,
+Vizianagaram,Andhra Pradesh,543,28,2.7,3.5,
+Visakhapatnam,Andhra Pradesh,544,28,2.4,-2.5,2.3
+East Godavari,Andhra Pradesh,545,28,8,10.2,
+West Godavari,Andhra Pradesh,546,28,2.2,2.8,
+Krishna,Andhra Pradesh,547,28,0,0,0
+Guntur,Andhra Pradesh,548,28,3.5,-4.3,2.3
+Prakasam,Andhra Pradesh,549,28,3.9,5.6,
+Sri Potti Sriramulu Nellore,Andhra Pradesh,550,28,2.9,4,
+Y.S.R. Cuddapah,Andhra Pradesh,551,28,2.9,-2.4,-3.5
+Kurnool,Andhra Pradesh,552,28,4.5,4.2,
+Anantapur,Andhra Pradesh,553,28,4.9,3.2,
+Chittoor,Andhra Pradesh,554,28,4.5,2.8,
+Belgaum,Karnataka,555,29,1.4,1,
+Bagalkot,Karnataka,556,29,0.4,0,1.1
+Bijapur,Karnataka,557,29,4.6,3.8,
+Bidar,Karnataka,558,29,3.7,3.3,
+Raichur,Karnataka,559,29,1.8,2.7,
+Koppal,Karnataka,560,29,1.5,1.9,
+Gadag,Karnataka,561,29,5.4,2.5,9.4
+Dharwad,Karnataka,562,29,4.3,1.2,6.6
+Uttara Kannada,Karnataka,563,29,7.2,5,
+Haveri,Karnataka,564,29,0,0,
+Bellary,Karnataka,565,29,0.9,1.4,0
+Chitradurga,Karnataka,566,29,3,2.5,
+Davanagere,Karnataka,567,29,4.5,4.8,3.8
+Shimoga,Karnataka,568,29,2.7,0,-10.2
+Udupi,Karnataka,569,29,2.1,1.2,
+Chikmagalur,Karnataka,570,29,2.6,1.1,
+Tumkur,Karnataka,571,29,4.9,5,
+Bangalore,Karnataka,572,29,0.9,,1
+Mandya,Karnataka,573,29,1.2,1.8,
+Hassan,Karnataka,574,29,3.3,2.4,
+Dakshina Kannada,Karnataka,575,29,2,0,-4
+Kodagu,Karnataka,576,29,1,1.2,
+Mysore,Karnataka,577,29,1.4,2.4,0
+Chamarajanagar,Karnataka,578,29,2,2.9,
+Gulbarga,Karnataka,579,29,3.4,4.4,1.7
+Yadgir,Karnataka,580,29,0.7,1,
+Kolar,Karnataka,581,29,1.4,0,2.7
+Chikkaballapura,Karnataka,582,29,2.8,2.6,
+Bangalore Rural,Karnataka,583,29,0.6,0.9,
+Ramanagara,Karnataka,584,29,2.2,2.1,
+North Goa,Goa,585,30,2.5,2.7,2.4
+South Goa,Goa,586,30,3,2.4,3.3
+Kasaragod,Kerala,588,32,1.1,1.9,0
+Kannur,Kerala,589,32,3.9,3.4,-4.3
+Wayanad,Kerala,590,32,0.6,0.7,
+Kozhikode,Kerala,591,32,0.5,1.5,0
+Malappuram,Kerala,592,32,1.2,1.2,1.2
+Palakkad,Kerala,593,32,0.5,0.7,
+Thrissur,Kerala,594,32,3.3,0,5.1
+Ernakulam,Kerala,595,32,3,-4.2,2.3
+Idukki,Kerala,596,32,0.8,0.9,
+Kottayam,Kerala,597,32,1.9,0,
+Alappuzha,Kerala,598,32,0.8,1.4,0
+Pathanamthitta,Kerala,599,32,3.3,3.8,
+Kollam,Kerala,600,32,0,0,0
+Thiruvananthapuram,Kerala,601,32,0.5,1.1,0
+Thiruvallur,Tamil Nadu,602,33,0.9,0,1.5
+Chennai,Tamil Nadu,603,33,0.7,,0.7
+Kancheepuram,Tamil Nadu,604,33,3.9,0,5.6
+Vellore,Tamil Nadu,605,33,2.4,2.7,2.1
+Tiruvannamalai,Tamil Nadu,606,33,0.7,1,
+Viluppuram,Tamil Nadu,607,33,3.3,4,
+Salem,Tamil Nadu,608,33,1.9,2,1.8
+Namakkal,Tamil Nadu,609,33,2.6,4.9,0
+Erode,Tamil Nadu,610,33,2.9,1.3,4.2
+The Nilgiris,Tamil Nadu,611,33,5.3,3.5,6.2
+Dindigul,Tamil Nadu,612,33,3.6,3.4,3.9
+Karur,Tamil Nadu,613,33,4.3,3,5.8
+Tiruchirappalli,Tamil Nadu,614,33,7.4,2.8,11.7
+Perambalur,Tamil Nadu,615,33,3.2,4.5,
+Ariyalur,Tamil Nadu,616,33,3.9,3.8,
+Cuddalore,Tamil Nadu,617,33,3.3,2.5,4.7
+Nagapattinam,Tamil Nadu,618,33,3.8,3.6,
+Thiruvarur,Tamil Nadu,619,33,2.2,2.1,
+Thanjavur,Tamil Nadu,620,33,1.5,1.7,1.2
+Pudukkottai,Tamil Nadu,621,33,3.4,3.6,
+Sivaganga,Tamil Nadu,622,33,3,1.6,5.8
+Madurai,Tamil Nadu,623,33,2.5,1.7,2.9
+Theni,Tamil Nadu,624,33,3.9,4.6,3.5
+Virudhunagar,Tamil Nadu,625,33,5.8,-7.9,3.8
+Ramanathapuram,Tamil Nadu,626,33,2.2,0,7.1
+Thoothukkudi,Tamil Nadu,627,33,1.8,0,2.8
+Tirunelveli,Tamil Nadu,628,33,2.7,-2.4,3.1
+Kanniyakumari,Tamil Nadu,629,33,2,,2
+Dharmapuri,Tamil Nadu,630,33,2.5,2.6,
+Krishnagiri,Tamil Nadu,631,33,1.3,1.8,
+Coimbatore,Tamil Nadu,632,33,4.2,,4.2
+Tiruppur,Tamil Nadu,633,33,1.7,2.4,1.3
+Yanam,Puducherry,634,34,1.7,,1.7
+Puducherry,Puducherry,635,34,1.9,5.4,0
+Mahe,Puducherry,636,34,3.2,,3.2
+Karaikal,Puducherry,637,34,5.4,5.5,5.4
+Nicobar,Andaman & Nicobar Islands,638,35,4.6,4.6,
+North & Middle Andaman,Andaman & Nicobar Islands,639,35,2.3,2.5,
+South Andaman,Andaman & Nicobar Islands,640,35,3.6,3.9,3.4
